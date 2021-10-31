@@ -1,0 +1,1 @@
+import{a as p}from"./504a71bb.js";import{h as s}from"./3c57a059.js";import{A as e}from"./5594ef9e.js";customElements.define(`${p.appName}-app`,class extends e{constructor(){super(),this.appName=p.appName,this.title=p.appPageTitle,this.appWebComponents=p.appWebComponents,this.resetApp=p.appWebComponents,this.output={},this.appTiles=this.makeAppTiles(),this.appCalc=s}});
